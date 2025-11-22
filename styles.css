@@ -21,6 +21,9 @@ body{font-family:Inter, 'Segoe UI', Roboto, Arial, sans-serif;line-height:1.6;co
 .brand .logo{font-weight:700;color:var(--text);text-decoration:none;font-size:1rem}
 .brand .role{color:var(--muted);font-size:.9rem}
 
+/* Foto de perfil */
+.profile-photo{width:56px;height:56px;border-radius:50%;object-fit:cover;margin-right:.75rem;vertical-align:middle;display:inline-block;background:linear-gradient(135deg,rgba(108,140,255,0.06),rgba(10,102,194,0.04))}
+
 .nav .btn{display:inline-block;padding:.5rem .85rem;border-radius:8px;text-decoration:none;font-weight:600}
 .btn-linkedin{background:var(--linkedin);color:#fff}
 
